@@ -10,6 +10,7 @@ namespace RabbitMonitor
 {
     public partial class Startup
     {
+        // cool 
         public void Configuration(IAppBuilder app)
         {
             ConfigureAuth(app);
